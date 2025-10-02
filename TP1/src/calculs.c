@@ -28,6 +28,15 @@ int main() {
                 printf("Erreur: Division par zéro\n");
             }
             break;
+        case '&&':
+            printf("Résultat: %d\n", num1 && num2);
+            break;
+        case '|':
+            printf("Résultat: %d\n", num1 || num2);
+            break;
+        case '~':
+            printf("Résultat: %d\n", ~num1);
+            break;
         default:
             printf("Erreur: Opération inconnue\n");
             break;
