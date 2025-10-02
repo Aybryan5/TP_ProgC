@@ -16,8 +16,8 @@ unsigned int n = 1;
 signed int o = -1;
 unsigned short p = 1;
 signed short q = -1;
-unsigned char r = 1;
-signed char s = -1;
+unsigned char r = 'b';
+signed char s = 'c';
 
 int main() {
     printf("Type de a : char, valeur = %c\n", a);

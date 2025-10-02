@@ -53,3 +53,5 @@ dkms.conf
 TP1/src/boucles
 .gitignore
 TP1/src/sizeof_types
+TP1/src/binaire
+TP1/src/pyramide
