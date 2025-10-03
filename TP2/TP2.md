@@ -258,6 +258,23 @@ Un exemple d'utilisation de ce programme pourrait être :
 
 Assurez-vous que le programme fonctionne correctement en utilisant des pointeurs pour parcourir les tableaux et effectuer la multiplication par 3 sur les valeurs appropriées.
 
+
+
+
+Bource.c
+
+Voici le cours de l'or de ces 15 dernières années. 
+
+1503, 1695, 1742, 1566, 2129, 2230, 1591, 1668, 2282, 1689, 2174, 2173, 2290, 1883, 1974
+
+Vous achetez de l'or à un instant T1 et le revendez à T2.
+Trouver la plus grande perte possible.
+
+La perte sera exprimée par la différence de valeur entre T1 et T2
+S'il n'y a pas de perte, la perte vaudra alors 0.
+Il n'est pas possible de revenir en arrière. on ne peut vendre que dans le futur.
+
+
 ## Astuce
 
 -   Pour l'exercice 2.5, pensez à utiliser \*(s+i) etc (e.g, si s est
